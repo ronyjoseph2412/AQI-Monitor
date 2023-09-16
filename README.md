@@ -2,8 +2,6 @@
 The Web-Dashboard for IoT based Air Quality Monitoring System
 
 ## Project Overflow
-Project Workflow:
-
 Data Collection: The Arduino UNO, equipped with gas sensors (MQ-135 and MQ-7) and a PM2.5 particle monitoring module, collects data about various air quality parameters.
 
 Data Processing: The collected data is processed to calculate the Air Quality Index (AQI), which provides a standardized measure of air quality.
